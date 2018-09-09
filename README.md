@@ -30,7 +30,7 @@ It was a lot of remembering C++ syntax, but this taught me how Unreal is trying 
 
 * Seems Actors are like GameObjects in Unity and both contain components
 
-T* ObjectIterator doesn’t compile. It says it’s not a template despite being shown to be one in documentation. I read online that it may be a bug.
+* TObjectIterator doesn’t compile. It says it’s not a template despite being shown to be one in documentation. I read online that it may be a bug.
 The tutorial says FName’s index is checked with nameA.Index but it’s changed to nameA.GetComparisionIndex()
 
 * Using a For Each loop creates a false positive error in Visual Studio. It’s current bug and hasn’t been fixed 
