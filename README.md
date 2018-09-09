@@ -1,7 +1,8 @@
 # UNREAL_TUTORIAL_1
-
+Introduction to C++ Programming in UE4
+https://docs.unrealengine.com/en-us/Programming/Introduction
 # What I Learned
-
+It was a lot of remembering C++ syntax, but this taught me how Unreal is trying to make C++ a more "modern day" language, with garbage collecting, using blueprints with C++, etc. This has a bunch of basics I needed, and I've feeling confident now.
 # Notes
 So, Unreal C++ is super object oriented. You create blocks of code functionality in C++, but you implement it with Blueprints (it seems that way at least at this point).
 
