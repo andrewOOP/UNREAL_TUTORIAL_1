@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\IntroToCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2868EEEB-9319-45BD-9DE4-81C06B520DE6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IntroToCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\IntroToCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{C3BD7F22-D04A-42A7-99E7-4CEF036EF3BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\IntroToCPP">
+      <UniqueIdentifier>{0A819E3C-CC08-4959-AD67-ED64C2149A3C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\IntroToCPP\IntroToCPP.Build.cs">
+      <Filter>Source\IntroToCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\IntroToCPP\IntroToCPP.cpp">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroToCPP\IntroToCPP.h">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IntroToCPP\IntroToCPPCharacter.cpp">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroToCPP\IntroToCPPCharacter.h">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IntroToCPP\IntroToCPPGameMode.cpp">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroToCPP\IntroToCPPGameMode.h">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IntroToCPP\IntroToCPPHUD.cpp">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroToCPP\IntroToCPPHUD.h">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\IntroToCPP\IntroToCPPProjectile.cpp">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\IntroToCPP\IntroToCPPProjectile.h">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\IntroToCPP\MyActor.h">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\IntroToCPP\MyActor.cpp">
+      <Filter>Source\IntroToCPP</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
