@@ -1,8 +1,8 @@
 # UNREAL_TUTORIAL_1
 
-##What I Learned
+# What I Learned
 
-##Notes
+# Notes
 So, Unreal C++ is super object oriented. You create blocks of code functionality in C++, but you implement it with Blueprints (it seems that way at least at this point).
 
 It didn’t tell you how to create the project, so I just assumed New Project/C++/Basic Code/With Starter Content (I was wrong…. They did it off the FPS project, dang it) (Turns out, it doesn’t really matter what template you pick to start, but they did use the FPS project)
